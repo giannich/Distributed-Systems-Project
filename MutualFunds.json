@@ -1,0 +1,38 @@
+{
+	"bank" : {
+		"Frankfurt" : {
+			"Deutsche Bank"     : 20 },
+		"Euronext Paris" : {
+			"LEGRAND"   : 20,
+			"SOCIETE GENERALE"  : 10 },
+		"New York Stock Exchange" : {
+			"IBM"  : 20,
+			"Visa" : 10,
+			"Nike" : 15 },
+		"Tokyo" : {
+			"Nomura Holdings, Inc."   : 5 }
+	},
+	"energy" : {
+		"Sao Paulo" : {
+			"Petrobas"      : 15 },
+		"London" : {
+			"BP PLC"        : 15 },
+		"Euronext Paris" : {
+			"Total"         : 40 },
+		"New York Stock Exchange" : {
+			"ExxonMobil"    : 30 }
+	},
+	"diverse" : {
+		"Hong Kong" : {
+			"Swire Pacific Limited" : 15 },
+		"Tokyo" : {
+			"Softbank Corp."        : 35 },
+		"London" : {
+			"Sky PLC"               : 40000 },
+		"Frankfurt" : {
+			"Deutsche Lufthansa"    : 10 }
+	}
+}
+
+
+
